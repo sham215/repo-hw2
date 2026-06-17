@@ -1,0 +1,3 @@
+C:/Users/HP/Downloads/matam_hw2/dry/cmake-build-debug/CMakeFiles/dry.dir
+C:/Users/HP/Downloads/matam_hw2/dry/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/HP/Downloads/matam_hw2/dry/cmake-build-debug/CMakeFiles/rebuild_cache.dir
