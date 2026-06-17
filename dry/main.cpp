@@ -7,8 +7,11 @@ using std::cout, std::endl;
 
 int main() {
 
+
     Pirate luffy("Luffy" , 100000);
+    luffy.setDevilFruit(GUM_GUM_FRUIT);
     Pirate zoro("Zoro" ,500000);
+    zoro.setDevilFruit(NONE);
 
     const int crewSize = 2;
     
