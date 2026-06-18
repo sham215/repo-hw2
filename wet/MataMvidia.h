@@ -24,4 +24,6 @@ class MataMvidia {
     MataMvidia operator+(const MataMvidia& other)const;
     friend std::ostream& operator<<(std::ostream& os, const MataMvidia& movie);
 } ;
+
+
 #endif //MATAMVIDIA_H
