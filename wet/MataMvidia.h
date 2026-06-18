@@ -4,7 +4,7 @@
 
 #ifndef MATAMVIDIA_H
 #define MATAMVIDIA_H
-#include "matrix.h"
+#include "Matrix.h"
 class MataMvidia {
     private :
         std::string filmName ;
